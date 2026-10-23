@@ -1,0 +1,49 @@
+scenario,sample,spec,mode,maturity,effect_bp,lower90_bp,upper90_bp
+Growth outlook +0.5 pp,long_sample,macro,next_quarter_predictive,2,-0.0543317858839927,-4.443018106345326,3.472610138997551
+Growth outlook +0.5 pp,long_sample,macro,next_quarter_predictive,5,-1.0923089039913578,-5.5995519692998785,2.5849268569088824
+Growth outlook +0.5 pp,long_sample,macro,next_quarter_predictive,10,-1.6471129034047636,-5.812618008588191,1.7049229072031797
+Growth outlook +0.5 pp,long_sample,macro,next_quarter_predictive,2s10s,-1.592781117520771,-3.9806133487835464,0.8493033752754624
+Growth outlook +0.5 pp,long_sample,macro,same_quarter_association,2,2.1693760533294957,-1.656963636170902,5.541169477829495
+Growth outlook +0.5 pp,long_sample,macro,same_quarter_association,5,2.275287376978454,-1.5736367056037073,6.02493979436818
+Growth outlook +0.5 pp,long_sample,macro,same_quarter_association,10,2.0125854879999263,-1.6746665721694578,5.547038939728328
+Growth outlook +0.5 pp,long_sample,macro,same_quarter_association,2s10s,-0.15679056532956936,-2.6133742231810757,2.5015875299017636
+Inflation outlook +0.5 pp,long_sample,macro,next_quarter_predictive,2,1.4021588133444225,-9.310580726970873,11.897032663227751
+Inflation outlook +0.5 pp,long_sample,macro,next_quarter_predictive,5,-1.6246131092754592,-12.339369752937252,9.135579574678818
+Inflation outlook +0.5 pp,long_sample,macro,next_quarter_predictive,10,-3.826460342889364,-13.848865380956846,5.835968869435414
+Inflation outlook +0.5 pp,long_sample,macro,next_quarter_predictive,2s10s,-5.228619156233787,-11.877439597964147,1.5060763258834762
+Inflation outlook +0.5 pp,long_sample,macro,same_quarter_association,2,22.904534274092182,12.72523495956012,32.76732357163195
+Inflation outlook +0.5 pp,long_sample,macro,same_quarter_association,5,22.554469282039406,12.354809656005763,32.392992100457086
+Inflation outlook +0.5 pp,long_sample,macro,same_quarter_association,10,20.360298633173677,11.143267069289847,29.96153692192032
+Inflation outlook +0.5 pp,long_sample,macro,same_quarter_association,2s10s,-2.5442356409185045,-9.82998665009731,5.123649579288974
+Borrowing flow +1% of GDP,common_vintage_sample,supply,next_quarter_predictive,2,-6.194733036657713,-11.315134070123987,-1.254469138409723
+Borrowing flow +1% of GDP,common_vintage_sample,supply,next_quarter_predictive,5,-4.970846111191759,-9.916391921650447,0.05541508132739867
+Borrowing flow +1% of GDP,common_vintage_sample,supply,next_quarter_predictive,10,-2.718745137648214,-7.607803483726998,2.2707457213811706
+Borrowing flow +1% of GDP,common_vintage_sample,supply,next_quarter_predictive,2s10s,3.475987899009499,-0.31218754657296827,7.229499237501274
+Borrowing flow +1% of GDP,common_vintage_sample,supply,same_quarter_association,2,-1.8504242759650182,-7.771672428967922,4.27688771981954
+Borrowing flow +1% of GDP,common_vintage_sample,supply,same_quarter_association,5,-0.8408417256352615,-6.6048311143600085,4.983258960310421
+Borrowing flow +1% of GDP,common_vintage_sample,supply,same_quarter_association,10,1.033108726168442,-4.30695023932826,6.617832523754174
+Borrowing flow +1% of GDP,common_vintage_sample,supply,same_quarter_association,2s10s,2.8835330021334604,-1.2537207175520435,7.065487713771713
+Fed holdings flow -1% of GDP,common_vintage_sample,supply,next_quarter_predictive,2,-16.312986788962764,-27.122954731740982,-4.459534685443645
+Fed holdings flow -1% of GDP,common_vintage_sample,supply,next_quarter_predictive,5,-14.47227872269751,-25.90338357947292,-2.8895259718164317
+Fed holdings flow -1% of GDP,common_vintage_sample,supply,next_quarter_predictive,10,-11.245416709146891,-22.500445330002,-0.03851485953114321
+Fed holdings flow -1% of GDP,common_vintage_sample,supply,next_quarter_predictive,2s10s,5.067570079815873,-3.325019552966344,12.876702283217117
+Fed holdings flow -1% of GDP,common_vintage_sample,supply,same_quarter_association,2,-5.906913630917276,-19.039993033713817,7.228617006763753
+Fed holdings flow -1% of GDP,common_vintage_sample,supply,same_quarter_association,5,-5.162268053042018,-18.71658148620247,7.783642825193782
+Fed holdings flow -1% of GDP,common_vintage_sample,supply,same_quarter_association,10,-1.0835734908568686,-13.703808846084552,10.867063651327907
+Fed holdings flow -1% of GDP,common_vintage_sample,supply,same_quarter_association,2s10s,4.823340140060408,-4.351417872805056,14.526836909733188
+Brent price +10%,common_vintage_sample,oil,next_quarter_predictive,2,5.32566268581757,-0.21162278329769477,11.592819858912716
+Brent price +10%,common_vintage_sample,oil,next_quarter_predictive,5,8.19312453337218,2.5796132670433867,14.375532993064214
+Brent price +10%,common_vintage_sample,oil,next_quarter_predictive,10,7.166330573266025,1.6752572331639595,13.24598251188272
+Brent price +10%,common_vintage_sample,oil,next_quarter_predictive,2s10s,1.840667887448455,-2.257533476646493,6.118616902059151
+Brent price +10%,common_vintage_sample,oil,same_quarter_association,2,1.3146489336752891,-4.40290778924167,7.510466404681054
+Brent price +10%,common_vintage_sample,oil,same_quarter_association,5,2.6419987478688576,-3.234458131180957,8.600795766622092
+Brent price +10%,common_vintage_sample,oil,same_quarter_association,10,1.4299802994134898,-4.440919686061697,7.097888571179268
+Brent price +10%,common_vintage_sample,oil,same_quarter_association,2s10s,0.11533136573820069,-4.438674103292073,4.169775416926578
+Unemployment change +0.5 pp,long_sample,labor,next_quarter_predictive,2,-2.4111201505163833,-7.689275615906185,2.4402750179215946
+Unemployment change +0.5 pp,long_sample,labor,next_quarter_predictive,5,-2.5291175231444347,-7.8400614566755396,2.3539118027667216
+Unemployment change +0.5 pp,long_sample,labor,next_quarter_predictive,10,-2.21987425889315,-7.82028068972642,2.656166611418689
+Unemployment change +0.5 pp,long_sample,labor,next_quarter_predictive,2s10s,0.19124589162323336,-3.159958443480043,3.317621198093293
+Unemployment change +0.5 pp,long_sample,labor,same_quarter_association,2,-0.21669010602842148,-5.737210954774088,4.065055924706644
+Unemployment change +0.5 pp,long_sample,labor,same_quarter_association,5,-0.5304517843061902,-5.865109260760952,4.3318958131588365
+Unemployment change +0.5 pp,long_sample,labor,same_quarter_association,10,-0.12620226594582315,-5.123912833202065,4.442565225391685
+Unemployment change +0.5 pp,long_sample,labor,same_quarter_association,2s10s,0.09048784008259833,-3.386049605350962,3.741835407698639
