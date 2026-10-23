@@ -1,0 +1,51 @@
+[
+  {
+    "filename": "spf_medianLevel.xlsx",
+    "url": "https://www.philadelphiafed.org/-/media/FRBP/Assets/Surveys-And-Data/survey-of-professional-forecasters/historical-data/medianLevel.xlsx",
+    "bytes": 554444,
+    "saved_utc": "2026-10-14T19:23:56.666934+00:00",
+    "sha256": "d296e737331c406f7680414504a0d005472743709387f8fda6d969a1d2200977"
+  },
+  {
+    "filename": "spf_release_dates.txt",
+    "url": "https://www.philadelphiafed.org/-/media/FRBP/Assets/Surveys-And-Data/survey-of-professional-forecasters/spf-release-dates.txt",
+    "bytes": 8298,
+    "saved_utc": "2026-10-14T19:23:56.671233+00:00",
+    "sha256": "c5f4c4dc349068ba9dc1f421c68474be26d0fe613fff83f70aa41eed96696ee3"
+  },
+  {
+    "filename": "FYGFDPUN_2026-10-14.csv",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=FYGFDPUN&cosd=2000-01-01&coed=2026-10-14",
+    "bytes": 3160,
+    "saved_utc": "2026-10-14T19:23:56.573092+00:00",
+    "sha256": "eed2fa929999c66b5af54f19074ae33b2a7223f3d0bfd132bca3d94b81226cd2"
+  },
+  {
+    "filename": "TREAST_2026-10-14.csv",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=TREAST&cosd=2000-01-01&coed=2026-10-14",
+    "bytes": 23223,
+    "saved_utc": "2026-10-14T19:23:56.821871+00:00",
+    "sha256": "91592681f8221589b5665fde0883a7d033158dadd86febe1fb9e70c8e23849c7"
+  },
+  {
+    "filename": "GDP_2026-10-14.csv",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=GDP&cosd=2000-01-01&coed=2026-10-14",
+    "bytes": 2247,
+    "saved_utc": "2026-10-14T19:24:02.086384+00:00",
+    "sha256": "7e32ec30af1f73cbbbd904abaf476ccbc9c67c4c307a1ce628a75d6d6fcf6462"
+  },
+  {
+    "filename": "UNRATE_2026-10-14.csv",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2000-01-01&coed=2026-10-14",
+    "bytes": 4841,
+    "saved_utc": "2026-10-14T19:24:02.525213+00:00",
+    "sha256": "6ab5565e1c314182ef010a704d168cc8f822aa6a6f75b6cf172d7d7220196718"
+  },
+  {
+    "filename": "DCOILBRENTEU_2026-10-14.csv",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DCOILBRENTEU&cosd=2000-01-01&coed=2026-10-14",
+    "bytes": 117389,
+    "saved_utc": "2026-10-14T19:24:03.528092+00:00",
+    "sha256": "f2fdc54ae1d53139a3a773a33668c31f0f0d7ad400b4c3d6bdc003bf5f7f0142"
+  }
+]
