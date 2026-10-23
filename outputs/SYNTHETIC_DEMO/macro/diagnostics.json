@@ -1,0 +1,23 @@
+[
+  {
+    "maturity": 2,
+    "n": 118,
+    "adjusted_r_squared": 0.1942780904489021,
+    "ljung_box_lag4_p": 0.35143739581094613,
+    "raw_design_condition_number": 54.72762642719359
+  },
+  {
+    "maturity": 5,
+    "n": 118,
+    "adjusted_r_squared": 0.19701536456147528,
+    "ljung_box_lag4_p": 0.30560451678400546,
+    "raw_design_condition_number": 57.662928237205904
+  },
+  {
+    "maturity": 10,
+    "n": 118,
+    "adjusted_r_squared": 0.22483142400876477,
+    "ljung_box_lag4_p": 0.10811461120710525,
+    "raw_design_condition_number": 55.42170516973705
+  }
+]

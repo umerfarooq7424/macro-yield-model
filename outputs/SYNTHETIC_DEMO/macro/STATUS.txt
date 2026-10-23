@@ -1,0 +1,4 @@
+SYNTHETIC SOFTWARE DEMONSTRATION. NO MARKET INFERENCE.
+Lagged predictive associations, not causal effects or intraday forecasts.
+HAC intervals cover coefficients, not yield prediction intervals.
+Latest-origin forecast and scenario intervals are intentionally deferred.
