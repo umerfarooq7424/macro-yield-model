@@ -1,0 +1,18 @@
+{
+  "primary_quarters": 95,
+  "primary_start": "2003-03-31",
+  "common_quarters": 62,
+  "common_start": "2011-06-30",
+  "end": "2026-09-30",
+  "excluded_leading_quarters": 33,
+  "sql_python_target_reconciliation": true,
+  "missing_labor_origins": [
+    "2025-12-31",
+    "2026-03-31"
+  ],
+  "vintage_bundles_checked": 95,
+  "spf_note": "Historical survey expectations and actual release dates; current workbook incorporates errata, not a frozen original-file archive.",
+  "availability_note": "Macro feature dates are verified known-by origin dates, not claimed first publication dates.",
+  "oil_note": "Uses preceding full quarter, one quarter more lagged than original design.",
+  "yield_note": "Current daily snapshot; any subsequent historical corrections not vintage-reconstructed."
+}

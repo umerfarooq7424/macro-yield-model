@@ -1,0 +1,16 @@
+{
+  "snapshot_date": "2026-10-14",
+  "source_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS2,DGS5,DGS10&cosd=2000-01-01&coed=2026-10-14",
+  "file_sha256": "60549a0e8fd7cdbe60a02b11e3f8a57a69816699c25d4cfc1e26d1641a447746",
+  "raw_file_saved_utc": "2026-10-14T18:46:13.046345+00:00",
+  "processed_utc": "2026-10-14T18:51:40.643548+00:00",
+  "last_common_date": "2026-10-09",
+  "complete_observations_since_2000": 6697,
+  "yields_percent": {
+    "DGS2": 4.8,
+    "DGS5": 5.02,
+    "DGS10": 5.24
+  },
+  "spread_2s10s_bp": 44.0,
+  "note": "Dated reference curve; not live data or a macro model forecast."
+}
