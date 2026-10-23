@@ -1,0 +1,21 @@
+{
+  "stage": "Stage 2 acquisition contract; no real macro panel included",
+  "row_key": "calendar quarter_end; consecutive ISO dates",
+  "yield_fields": {
+    "y2": "percent",
+    "y5": "percent",
+    "y10": "percent"
+  },
+  "features": {
+    "growth_revision_pp": "same-target next-quarter growth forecast revision; pp annualized",
+    "inflation_revision_pp": "same-target CPI forecast revision; pp annualized",
+    "borrowing_flow_pct_gdp": "change in public Treasury debt / prior nominal GDP *100; percent of annualized GDP",
+    "fed_treasury_flow_pct_gdp": "change in Fed Treasury holdings / prior nominal GDP *100; percent of annualized GDP",
+    "oil_log_change_pct": "100*log(current quarterly average Brent / prior quarterly average Brent)",
+    "unemployment_change_pp": "latest available 3-month-average unemployment minus prior 3-month average; pp",
+    "policy_revision_pp": "same-target SPF 3-month bill yield forecast revision; pp"
+  },
+  "availability": "Every selected feature requires <feature_name>_available_date, at most quarter_end",
+  "provenance": "Retain raw reference periods, forecast targets, component release dates and vintages separately; available_date=max(component release dates)",
+  "units": "1 percentage point = 100 basis points; yield targets in bp"
+}
